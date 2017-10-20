@@ -5,3 +5,58 @@ html {
 .bgimg {
   background-image: url("../images/the-flatiron-building.png");
 }
+
+h1 {
+  font-family: Helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+nav {
+  font-family: Helvetica;
+  font-size: 18px;
+  color: white;
+}
+
+.process {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.headers {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+.description {
+  font-family: Helvetica;
+  font-size: 14px;
+}
+
+.newyork {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+
+.footer {
+  text-align: left;
+  background-color: dimgray;
+  color: white;
+}
+
+.broadway {
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+  font-family: "Helvetica", sans-serif;
+}
